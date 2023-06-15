@@ -18,3 +18,10 @@
  ##### Soy bastante respetuoso y extrovertido. Disfruto de la programación, los juegos,  películas, animes, salidas, ect.
  ##### Soy un joven programador con hambre de conocimiento y diversión.
  ##### Siempre estoy dispuesto a trabajar en conjunto.
+
+### Redes:
+  <a href="https://www.instagram.com/donny_robled0/"> <img src="https://static.vecteezy.com/system/resources/previews/002/067/953/original/instagram-3d-icon-free-vector.jpg"> </a>
+  
+  <a href=""> <img src="https://i.pinimg.com/originals/0f/48/39/0f48394818ca5780777515dac200bee5.jpg"> </a>
+  
+  <a href=""> <img src="https://static.vecteezy.com/system/resources/previews/002/067/939/original/facebook-3d-icon-free-vector.jpg"> </a>
