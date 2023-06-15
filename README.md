@@ -1,4 +1,4 @@
-## HOLA! Mi nombre es DONATO, soy un joven programador con hambre de conocimiento y diversión!!. Tengo 18 años y siempre estoy dispuesto a trabajar en conjunto.
+## HOLA! Mi nombre es *DONATO*, soy un joven programador con hambre de conocimiento y diversión!!. Tengo 18 años y siempre estoy dispuesto a trabajar en conjunto.
 
 <hr>
 
