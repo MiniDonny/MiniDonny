@@ -20,8 +20,4 @@
  ##### Siempre estoy dispuesto a trabajar en conjunto.
 
 ### Redes:
-  <a href="https://www.instagram.com/donny_robled0/"> <img src="https://static.vecteezy.com/system/resources/previews/002/067/953/original/instagram-3d-icon-free-vector.jpg" width="200px"> </a>
-  
-  <a href="https://twitter.com/MiniD0nny"> <img src="https://i.pinimg.com/originals/0f/48/39/0f48394818ca5780777515dac200bee5.jpg" width="200px"> </a>
-  
-  <a href="https://www.instagram.com/donny_robled0/"> <img src="https://static.vecteezy.com/system/resources/previews/002/067/939/original/facebook-3d-icon-free-vector.jpg" width="200px"> </a>
+  <a href="https://www.instagram.com/donny_robled0/"> <img src="https://static.vecteezy.com/system/resources/previews/002/067/953/original/instagram-3d-icon-free-vector.jpg" width="200px"> </a> <a href="https://twitter.com/MiniD0nny"> <img src="https://i.pinimg.com/originals/0f/48/39/0f48394818ca5780777515dac200bee5.jpg" width="200px"> </a> <a href="https://www.instagram.com/donny_robled0/"> <img src="https://static.vecteezy.com/system/resources/previews/002/067/939/original/facebook-3d-icon-free-vector.jpg" width="200px"> </a>
