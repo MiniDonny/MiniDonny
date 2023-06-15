@@ -1,9 +1,12 @@
 ## HOLA! Mi nombre es *DONATO*, soy un joven programador con hambre de conocimiento y diversión!!. Tengo 18 años y siempre estoy dispuesto a trabajar en conjunto.
 
+
 <hr>
 
-### Idiomas:
-  *Se hablar y leer en Inglés y Castellano.
+### Conocimientos:
+  *Poseo secundario terminado en bachiller en administracion y economía.
+  *Estudio Ingles en un instituto profesional.
+  *Actualmente estoy cursando cursos de base de datos, programación web y programación general.
   
 <hr>
 
