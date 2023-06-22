@@ -5,7 +5,9 @@
 
 ### Conocimientos:
   *Poseo secundario terminado en bachiller en administracion y economía.
+  
   *Estudio Ingles en un instituto profesional.
+  
   *Actualmente estoy cursando cursos de base de datos, programación web y programación general.
   
 <hr>
