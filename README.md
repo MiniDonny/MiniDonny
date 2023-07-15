@@ -25,3 +25,6 @@
  
 <hr>
 
+
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=minidonny&show_icons=true&locale=en" alt="minidonny" /></p>
