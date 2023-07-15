@@ -6,9 +6,9 @@
 ### Knowledge:
   * I have a secondary degree in administration and economics.
   
-  *Study English in a professional institute.
+  * Study English in a professional institute.
   
-  *Currently I am taking database, web programming and general programming courses.
+  * Currently I am taking database, web programming and general programming courses.
   
 <hr>
 
