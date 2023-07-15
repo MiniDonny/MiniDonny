@@ -19,7 +19,7 @@
 
 ### Myself:
  ##### I am 18 years old
- ##### I am quite respectful and outgoing. I enjoy programming, games, movies, animes, going out, ect.
+ ##### I am quite respectful and outgoing. I enjoy programming, games, movies, animes, going out, others.
  ##### I am a young programmer hungry for knowledge and fun.
  ##### I am always willing to work together.
  
