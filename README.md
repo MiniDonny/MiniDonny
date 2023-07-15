@@ -22,6 +22,12 @@
  ##### I am quite respectful and outgoing. I enjoy programming, games, movies, animes, going out, ect.
  ##### I am a young programmer hungry for knowledge and fun.
  ##### I am always willing to work together.
+ 
+<hr>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B!+I'm+Valentino+Barbosa;welcome+to+my+site+%E2%98%95;i+am+a+junior+programmer+%F0%9F%96%A5%EF%B8%8F;nice+to+meet+you+%F0%9F%99%83)](https://git.io/typing-svg)
 
 <hr>
+
+  [![MiniDonny GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinoarg)](https://github.com/anuraghazra/github-readme-stats)
 
