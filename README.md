@@ -1,5 +1,5 @@
 ## HELLO EVERYONE! My name is *DONATO ROBLEDO*
-
+<h3 align="center">A passionate developer who wants to learn as much as possible and improve all the time!
 
 <hr>
 
@@ -28,3 +28,6 @@
 
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=minidonny&show_icons=true&locale=en" alt="minidonny" /></p>
+
+
+
