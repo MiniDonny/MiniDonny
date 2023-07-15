@@ -13,7 +13,7 @@
 <hr>
 
 ### Languages ​​and Tools
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeKXebshKzrBj9tc6DFj-iv46H_ePITihX6082ymkqOv1eucdQAr9nzW6LYFB6c1msXIc&usqp=CAU" width="80px"> <img src="https://img.freepik.com/ free-icons/css_318-698167.jpg" width="80px"> <img src="https://static.vecteezy.com/system/resources/previews/022/424/576/original/java-logo-editorial -free-vector.jpg" width="80px"> <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" width="80px ">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeKXebshKzrBj9tc6DFj-iv46H_ePITihX6082ymkqOv1eucdQAr9nzW6LYFB6c1msXIc&usqp=CAU" width="80px"> <img src="https://img.freepik.com/ free-icons/css_318-698167.jpg" width="80px"> <img src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" width="80px"> <img src="https://www.liveagent.com/app/uploads/2020/11/MySQL-Logo.png" width="80px"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="80px"> <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" width="80px ">
 
 <hr>
 
