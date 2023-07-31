@@ -2,9 +2,12 @@
 <h3 align="center">A passionate developer who wants to learn as much as possible and improve all the time!
 
 <hr>
+
 ### Portfolio
  In my <a href="">portfolio</a> you can find my projects that I have been doing
+ 
 <hr>
+
 ### Knowledge:
   * I have a secondary degree in administration and economics.
   
