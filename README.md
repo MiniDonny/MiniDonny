@@ -4,7 +4,7 @@
 <hr>
 
 ### Portfolio
- In my <a href="https://minidonny.github.io/My-Portfolio/">portfolio</a> you can find my projects that I have been doing
+ In my <a href="https://minidonny.github.io/New-Personal-Portfolio/">portfolio</a> you can find my projects that I have been doing
  
 <hr>
 
@@ -18,7 +18,7 @@
 <hr>
 
 ### Languages ​​and Tools
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeKXebshKzrBj9tc6DFj-iv46H_ePITihX6082ymkqOv1eucdQAr9nzW6LYFB6c1msXIc&usqp=CAU" width="80px"> <img src="https://img.freepik.com/ free-icons/css_318-698167.jpg" width="80px"> <img src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" width="80px"> <img src="https://www.liveagent.com/app/uploads/2020/11/MySQL-Logo.png" width="80px"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="80px"> <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" width="80px ">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeKXebshKzrBj9tc6DFj-iv46H_ePITihX6082ymkqOv1eucdQAr9nzW6LYFB6c1msXIc&usqp=CAU" width="80px"> <img src="https://img.freepik.com/ free-icons/css_318-698167.jpg" width="80px"> <img src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" width="80px"> <img src="https://www.liveagent.com/app/uploads/2020/11/MySQL-Logo.png" width="80px"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="80px"> <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" width="80px "> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" width="80px "> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="80px ">
 
 <hr>
 
